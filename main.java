@@ -2,7 +2,7 @@
 public class main {
 
 	public static void main(String[] args) {
-		System.out.println("Fuck off");
+		System.out.println("Ice Cream");
 
 	}
 
